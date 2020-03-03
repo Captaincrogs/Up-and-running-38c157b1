@@ -7,7 +7,6 @@
 <body>
 <?php
 echo phpinfo();
-//mysql_query("SELECT VERSION() as mysql_version");
 ?>
 
 
